@@ -1,0 +1,6 @@
+goobeeteams/goobeeteams/goobeeteams.Api/Logs
+goobeeteams/goobeeteams/.vscode
+.gitlab-ci.yml
+goobeeteams/goobeeteams/Dockerfile
+goobeeteams/goobeeteams.webapp/Dockerfile
+appsettings.json
